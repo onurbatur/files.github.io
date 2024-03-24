@@ -1,0 +1,45 @@
+{
+"name": "Hadicoo",
+"short_name": "Hadicoo",
+"start_url": "https://www.hadicoo.com/",
+"display": "standalone",
+"background_color": "#fff",
+"theme_color": "#00857c",
+"description": "Yazarın; yaşama dair güncel paylaşımların yapıldığı, bilgilendirici içeriklerin bulunduğu bir web günlüğü.",
+"icons": [{
+"src": "/ikonlar/36.png",
+"sizes": "36x36",
+"type": "image/png",
+"density": "0.75"
+}, {
+"src": "/ikonlar/48.png",
+"sizes": "48x48",
+"type": "image/png",
+"density": "1.0"
+}, {
+"src": "/ikonlar/72.png",
+"sizes": "72x72",
+"type": "image/png",
+"density": "1.5"
+}, {
+"src": "/ikonlar/96.png",
+"sizes": "96x96",
+"type": "image/png",
+"density": "2.0"
+}, {
+"src": "/ikonlar/144.png",
+"sizes": "144x144",
+"type": "image/png",
+"density": "3.0"
+}, {
+"src": "/ikonlar/192.png",
+"sizes": "192x192",
+"type": "image/png",
+"density": "4.0"
+}, {
+"src": "/ikonlar/512.png",
+"sizes": "512x512",
+"type": "image/png",
+"density": "5.0"
+}]
+}
